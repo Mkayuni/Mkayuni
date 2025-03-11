@@ -8,7 +8,7 @@
   
 </div>
 
-## Software Developer | 📊 Data Engineer
+## Software Developer | Data Analyst
 
 > Master's in Computer Science candidate with an MBA in Data Analytics & Healthcare Administration, combining technical expertise with business acumen to deliver innovative solutions.
 
@@ -17,7 +17,7 @@
 - **MS in Computer Science** - Western Kentucky University *(In progress)*
 - **MBA in Data Analytics & Healthcare Administration** - University of Southern Indiana
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Teaching Assistant | Western Kentucky University
 - Instructing Java and Python programming courses (CS146 and CS170)
@@ -29,7 +29,7 @@
 - Implemented systems to calculate machine hours, material usage, and forecast-based metrics
 - Collaborated in an agile team environment to deliver business-critical solutions
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -108,7 +108,7 @@
 </table>
 </div>
 
-## 💻 Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -123,16 +123,18 @@
 
 </div>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mkayuni&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkayuni&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
-### Recent Activity (March 2025)
-- Created 15 commits across 6 repositories
-- 89% Commits, 10% Pull requests, 1% Issues
+### 2025 Activity
+- 89 total commits
+- 10 pull requests
+- 3 issues
+- 30% JavaScript, 10% Java
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mkayuni&theme=react&hide_border=true" alt="Streak"/>
