@@ -122,24 +122,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkayuni&show_icons=true&count_private=true&theme=react&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkayuni&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
-### 2025 Activity
-- 89 total commits
-- 10 pull requests
-- 3 issues
-- 30% JavaScript, 10% Java
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mkayuni&theme=react&hide_border=true" alt="Streak"/>
-</div>
-
 ---
 
 <div align="center">
