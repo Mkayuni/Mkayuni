@@ -12,7 +12,7 @@
 
 > Master's in Computer Science candidate with an MBA in Data Analytics & Healthcare Administration, combining technical expertise with business acumen to deliver innovative solutions.
 
-## 🎓 Education
+## Education
 
 - **MS in Computer Science** - Western Kentucky University *(In progress)*
 - **MBA in Data Analytics & Healthcare Administration** - University of Southern Indiana
@@ -109,7 +109,7 @@
 </div>
 
 
-## 💻 Technical Skills
+## Technical Skills
 
 <div align="center">
 
