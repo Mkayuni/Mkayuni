@@ -8,7 +8,7 @@
   
 </div>
 
-## Software Developer | Data Analyst
+## Software Developer | Data Engineer & Scientist
 
 > Master's in Computer Science candidate with an MBA in Data Analytics & Healthcare Administration, combining technical expertise with business acumen to deliver innovative solutions.
 
@@ -122,7 +122,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
----
+
 
 <div align="center">
   <i>Currently focused on enhancing AutoER grading with an emphasis on object-oriented class diagrams. Open to collaboration and new opportunities!</i>
