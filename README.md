@@ -108,6 +108,7 @@
 </table>
 </div>
 
+
 ## 💻 Technical Skills
 
 <div align="center">
