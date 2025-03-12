@@ -17,35 +17,6 @@
 - **MS in Computer Science** - Western Kentucky University *(In progress)*
 - **MBA in Data Analytics & Healthcare Administration** - University of Southern Indiana
 
-## Professional Experience
-
-### Software Development/Data Analyst (Intern) | Schneider Electric
-- Developed a full-stack tool capacity application to improve operational efficiency
-- Led the Molding Master Data Quality project to help reduce data inconsistencies
-- Implemented ETL processes to integrate manufacturing data from multiple sources
-
-### Graduate Teaching Assistant - Computer Science | Western Kentucky University
-- Instruct 40+ students in Java and Python programming labs, leading to noticeable improvements in coding assignments
-- Developing an automated grading system for OOP class diagrams using Mermaid syntax
-- Created supplemental learning materials that increased student comprehension of complex algorithms
-
-### Graduate Student Assistant - Data Management | University of Southern Indiana
-- Maintained databases for international programs, ensuring 99.8% data accuracy
-- Implemented data collection protocols that improved reporting efficiency by 40%
-- Developed analytics dashboards for budget tracking across international programs
-
-### Business Analyst | Fifth Third Bank
-- Automated reporting processes, minimizing manual workload and improving efficiency
-- Enhanced data visualization in executive reports, facilitating faster decision-making
-- Streamlined system training documentation to accelerate onboarding and knowledge transfer
-
-### Board Member (Volunteer) | Heart for Malawi
-- Implement data analytics solutions for community impact measurement
-- Maintain website and digital infrastructure for improved outreach
-
-### Volunteer | Bethany Christian Services
-- Assisted in strategic decision-making to enhance program effectiveness and community outreach
-
 ## Featured Projects
 
 <div align="center">
@@ -111,14 +82,14 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Mkayuni/Simple-File-System">💾 Simple File System</a></h3>
+      <h3 align="center"><a href="https://github.com/Mkayuni/KayuniWebPort">🌐 KayuniWebPort</a></h3>
       <div align="center">
-        <a href="https://github.com/Mkayuni/Simple-File-System" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-SFS-blue?style=for-the-badge&logo=github" alt="Project"/>
+        <a href="https://github.com/Mkayuni/KayuniWebPort" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-KayuniWebPort-blue?style=for-the-badge&logo=github" alt="Project"/>
         </a>
         <br />
-        <p>Thread-safe file system implementation in C with concurrent access management.</p>
-        <p><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/></p>
+        <p>A modern personal portfolio built with Next.js, TypeScript, and Tailwind CSS. Features responsive design, dark/light theme toggle, and dynamic content sections.</p>
+        <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/></p>
       </div>
     </td>
   </tr>
