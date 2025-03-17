@@ -71,14 +71,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Mkayuni/avlTree">🌳 AVL Tree Visualizer</a></h3>
+      <h3 align="center"><a href="https://github.com/yourusername/bass-broker">🔊 Bass Broker</a></h3>
       <div align="center">
-        <a href="https://github.com/Mkayuni/avlTree" target="_blank">
-          <img src="https://img.shields.io/badge/View_Project-AVLTree-blue?style=for-the-badge&logo=github" alt="Project"/>
+        <a href="https://github.com/yourusername/bass-broker" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-BassBroker-blue?style=for-the-badge&logo=github" alt="Project"/>
         </a>
         <br />
-        <p>A dynamic, interactive web application for visualizing AVL tree operations and rotations. Perfect for students, teachers, and anyone interested in learning about self-balancing binary search trees.</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></p>
+        <p>An innovative Android app that transforms stock market data into audio cues, allowing users to monitor investments through distinctive bass sounds. It features real-time stock tracking, interactive visualizations, and a unique price prediction system with confidence intervals.</p>
+        <p><a href="https://youtu.be/fhgYDDQGIVk" target="_blank">View Demo</a></p>
+        <p><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/></p>
       </div>
     </td>
     <td width="50%" valign="top">
