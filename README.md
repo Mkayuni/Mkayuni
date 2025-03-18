@@ -59,7 +59,10 @@
         </a>
         <br />
         <p>Real-time stock tracking and portfolio management application that provides market data analysis and investment performance monitoring through an intuitive interface.</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></p>
+       <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      </p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -70,7 +73,10 @@
         </a>
         <br />
         <p>Interactive Android app for learning Chichewa through gamified language acquisition inspired by the "Heads Up!" format.</p>
-        <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/></p>
+       <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+      </p>
       </div>
     </td>
   </tr>
@@ -83,7 +89,10 @@
         </a>
         <br />
         <p>Educational discussion board platform facilitating Q&A interactions between students and instructors for course material engagement.</p>
-        <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></p>
+        <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      </p>
       </div>
     </td>
     <td width="50%" valign="top">
