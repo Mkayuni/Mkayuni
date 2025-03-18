@@ -42,7 +42,11 @@
         </a>
         <br />
         <p>TEACHING OBJECT-ORIENTED DESIGN THROUGH INTERACTIVE UML: A DUAL-APPROACH FRAMEWORK FOR CODE-BASED GENERATION AND DIRECT DIAGRAM MANIPULATION</p>
-        <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+        <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white" alt="Mermaid"/>
+      </p>
       </div>
     </td>
   </tr>
