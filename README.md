@@ -134,4 +134,4 @@ Software Engineer with dual Master's degrees (MSCS + MBA) developing full-stack 
 <br/>
 🎓 **MBA, Data Analytics** — University of Southern Indiana *(2023)*
 <br/>
-🎓 **B.B.A. Business Administration** — Kuyper College *(2020)*
+
