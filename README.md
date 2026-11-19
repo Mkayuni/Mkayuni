@@ -69,21 +69,19 @@ Programmer Analyst on the Operations Technology and Automation team at Century A
  
 ### Professional Work
  
-> The systems below are proprietary and their source code is not public. Descriptions are kept at the level of purpose, architecture, and technology.
- 
-**Industrial Asset Lifecycle Management Platform** &nbsp; `In Production`
+**Industrial Asset Lifecycle Management Platform**
 <br/>
 Full-stack platform that tracks critical production assets from construction and startup through operation and failure analysis. Manages more than 50 data entities and over 380 active assets, replacing spreadsheet-based tracking with a single system of record for engineering teams.
 <br/>
 <sub>Vue 3 · TypeScript · ASP.NET Core · Clean Architecture · CQRS · EF Core · SQL Server</sub>
  
-**Refractory Lifecycle Tracking System** &nbsp; `In Production`
+**Refractory Lifecycle Tracking System**
 <br/>
 Modernization of a legacy industrial tracking application. Adds predictive analytics for maintenance planning, automated monitoring of heating cycles, and visual tools for recording and assessing equipment condition.
 <br/>
 <sub>C# · ASP.NET Core · Vue 3 · SQL Server</sub>
  
-**Industrial Messaging and Integration Layer** &nbsp; `In Development`
+**Industrial Messaging and Integration Layer**
 <br/>
 Message-based integration between plant control systems and business applications, designed for high availability and guaranteed delivery. Aligned with Purdue Model and ISA-95 principles so that data moves between network levels through controlled, auditable paths.
 <br/>
@@ -95,19 +93,19 @@ Pipelines that collect time-series process data from control systems and the PI 
 <br/>
 <sub>Python · C# · PI System · SQL Server</sub>
  
-**Mobile Inspection and Audit Applications** &nbsp; `In Production`
+**Mobile Inspection and Audit Applications**
 <br/>
 iPad applications for plant-floor equipment pre-use inspections and layered process audits, with barcode and QR code asset identification and single sign-on through Microsoft Entra ID. Replaced paper forms with structured, searchable records.
 <br/>
 <sub>Vue 3 · Capacitor · iOS · ASP.NET Core · Entra ID · SQL Server</sub>
  
-**Production Process Tracking Applications** &nbsp; `In Production`
+**Production Process Tracking Applications**
 <br/>
 Web applications that record and report on furnace, electrode, and carbon production processes, giving operations and engineering teams a shared view of process status and history.
 <br/>
 <sub>ASP.NET Core · Vue 3 · SQL Server · IIS</sub>
  
-**Plant-Floor Dashboard Automation** &nbsp; `Deployed`
+**Plant-Floor Dashboard Automation**
 <br/>
 Desktop application that rotates real-time dashboards on plant-floor displays, with session-aware authentication and automatic recovery from network and display failures.
 <br/>
@@ -117,7 +115,7 @@ Desktop application that rotates real-time dashboards on plant-floor displays, w
  
 ### Research and Personal Projects
  
-**[Automated UML Grading Engine](https://digitalcommons.wku.edu/theses/3819/)** &nbsp; `Published Thesis`
+**[Automated UML Grading Engine](https://digitalcommons.wku.edu/theses/3819/)**
 <br/>
 Framework for teaching object-oriented design through interactive UML generation and direct diagram manipulation, with automated assessment of student models. More than 476 downloads.
 <br/>
