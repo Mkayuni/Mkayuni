@@ -121,12 +121,6 @@ Framework for teaching object-oriented design through interactive UML generation
 <br/>
 <sub>Python · JavaScript</sub>
  
-**[LotaMalawi](https://github.com/Mkayuni/LotoAndroid)**
-<br/>
-Android application for learning Chichewa through a game-based approach to vocabulary practice.
-<br/>
-<sub>Java · Android</sub>
- 
 **Manufacturing Capacity Planning Tool**
 <br/>
 Capacity analysis application that combined forecasting, tooling allocation, and material planning into a single platform.
